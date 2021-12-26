@@ -17,7 +17,9 @@ https://drive.google.com/drive/folders/1t63JatMrP6lguSdm_-uERsPtUNqPMxNz?usp=sha
 
 https://drive.google.com/drive/folders/1ecJwhc2XPv_kk7fN0XNKyszobYKrxFHp?usp=sharing
 
-some directories need changes should update in some time
+some directories need changes 
+
+should update in some time
 
 * cuda torch preferred
 
